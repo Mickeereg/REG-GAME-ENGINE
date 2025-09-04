@@ -1,0 +1,9 @@
+pygame>=2.5.0
+PyOpenGL>=3.1.6
+numpy>=1.24.0
+Pillow>=10.0.0  # For texture loading
+PyBullet>=3.2.5  # For physics simulation
+pyrr>=0.10.3  # For 3D mathematics
+pybullet==3.2.5
+numpy==1.24.3
+keyboard==0.13.5 
